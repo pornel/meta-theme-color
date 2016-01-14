@@ -1,5 +1,8 @@
 # The 'theme-color' meta extension
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/ "This project is not actively maintained")
+
+
 ## Overview 
 
 The 'theme-color' meta extension defines a suggested color that 
